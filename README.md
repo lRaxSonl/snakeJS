@@ -1,1 +1,2 @@
 # snakeJS
+Simple snake
